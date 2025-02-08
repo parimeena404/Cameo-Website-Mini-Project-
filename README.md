@@ -1,4 +1,5 @@
 Cameo Website 📸
+
 A simple and elegant HTML & CSS-based website featuring a camera image, a sidebar, and a menu button for navigation.
 
 ✨ Features
